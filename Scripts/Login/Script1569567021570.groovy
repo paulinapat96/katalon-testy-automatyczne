@@ -67,3 +67,5 @@ WebUI.closeBrowser()
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
