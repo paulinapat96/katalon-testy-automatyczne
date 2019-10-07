@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Log in to manualy created Test account &quot;autoTester&quot;</description>
+   <name>Login</name>
+   <tag>User</tag>
+   <comment></comment>
+   <testCaseGuid>9d3251b8-9616-49d2-aa97-ab9fa2b6a4cd</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>ce7decce-a1b7-443d-9fad-e7107d89ecec</id>
+      <masked>false</masked>
+      <name>isCurrentPasswordFirst</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>184e5072-8e86-4c3c-928d-6ad49fcd5e57</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789\n'</defaultValue>
+      <description></description>
+      <id>4cbc196e-8e86-4d55-9ac3-46b014f9b2be</id>
+      <masked>false</masked>
+      <name>password2</name>
+   </variable>
+</TestCaseEntity>
