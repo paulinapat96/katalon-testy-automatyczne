@@ -65,3 +65,5 @@ if (isElement == true) {
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
